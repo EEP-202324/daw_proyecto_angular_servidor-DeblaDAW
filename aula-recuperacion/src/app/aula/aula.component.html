@@ -1,0 +1,9 @@
+<h2>My Heroes</h2>
+<ul class="heroes">
+  <li *ngFor="let aula of aulas">
+    <a routerLink="/detail/{{aula.id}}">
+      <span class="badge">{{aula.id}}</span> {{aula.name}}
+    </a>
+  </li>
+</ul>
+

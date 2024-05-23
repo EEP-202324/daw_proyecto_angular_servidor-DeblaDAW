@@ -1,0 +1,19 @@
+<div *ngIf="aula" class="details-container">
+    <h2>{{ aula.name | uppercase }} Details</h2>
+    <div class="detail-item"><span>ID: </span>{{ aula.id }}</div>
+    <div class="detail-item">
+        <label for="hero-name">Nombre: </label>
+        <input id="hero-name" [(ngModel)]="aula.name" placeholder="Nombre">
+    </div>
+    <div class="detail-item">
+        <label for="hero-gmail">Gmail: </label>
+        <input id="hero-gmail" [(ngModel)]="aula.gmail" placeholder="Gmail">
+    </div>
+    <div class="detail-item">
+        <label for="hero-ubicacion">Ubicación: </label>
+        <input id="hero-ubicacion" [(ngModel)]="aula.ubicacion" placeholder="Ubicación">
+    </div>
+    <button type="button" (click)="goBack()">go back</button>
+</div>
+
+
