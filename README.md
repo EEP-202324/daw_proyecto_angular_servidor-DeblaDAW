@@ -38,5 +38,8 @@ Verbo DELETE para eliminar un elemento de la
 BBDD 
  Test Unitarios (min 2 por verbo)
  ¼ por test 
+
+### Mi experiencia
+La verdad ha sido un trabajo que me ha costado mucho, pero he conseguido sacarlo a delante estoy contenta a pesar de todo 
 ### Video 
 https://eepmad-my.sharepoint.com/:v:/g/personal/debla-hueso1_eep-igroup_com/Ee-qLytWsclOm_r5Z2_T9QsB034nc3RGC1kl98WuSXlaKQ?e=4DLap1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
